@@ -1,3 +1,6 @@
+![](qrcode.png)
+![](qrcode-page.png)
+
 # TRASH MAGIC WEB SERVERS
 
 *EVERYTHING FREE FOR EVERYONE EVERYWHERE RIGHT NOW!!*
